@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Skald</string>
+
+    <!-- 主界面 -->
+    <string name="tab_config">配置</string>
+    <string name="tab_permission">权限</string>
+    <string name="tab_prompt">提示词</string>
+
+    <!-- API 配置 -->
+    <string name="api_url_label">DeepSeek API 地址</string>
+    <string name="api_url_hint">https://api.deepseek.com</string>
+    <string name="api_key_label">API Key</string>
+    <string name="api_key_hint">请输入 DeepSeek API Key</string>
+    <string name="api_model_label">模型名称</string>
+    <string name="api_model_hint">deepseek-chat</string>
+    <string name="btn_save_config">保存配置</string>
+    <string name="btn_test_connection">测试连接</string>
+    <string name="config_saved">配置已保存</string>
+    <string name="connection_success">连接成功</string>
+    <string name="connection_failed">连接失败</string>
+
+    <!-- 权限引导 -->
+    <string name="permission_guide_title">权限配置</string>
+    <string name="permission_accessibility">无障碍服务</string>
+    <string name="permission_accessibility_desc">需要开启无障碍服务以获取屏幕内容和截图</string>
+    <string name="permission_overlay">悬浮窗权限</string>
+    <string name="permission_overlay_desc">需要悬浮窗权限以显示操作按钮和结果</string>
+    <string name="permission_notification">通知权限</string>
+    <string name="permission_notification_desc">需要通知权限以保持后台运行</string>
+    <string name="btn_grant">去设置</string>
+    <string name="status_granted">已授权</string>
+    <string name="status_denied">未授权</string>
+    <string name="service_status_running">服务运行中</string>
+    <string name="service_status_stopped">服务已停止</string>
+
+    <!-- 提示词 -->
+    <string name="prompt_label">自定义提示词</string>
+    <string name="prompt_reset">恢复默认</string>
+    <string name="prompt_saved">提示词已保存</string>
+    <string name="prompt_preview">提示词预览</string>
+
+    <!-- 悬浮窗 -->
+    <string name="float_start">开始服务</string>
+    <string name="float_stop">停止服务</string>
+    <string name="float_processing">正在分析对话…</string>
+    <string name="float_error">出错了，请重试</string>
+    <string name="float_no_text">未识别到文字</string>
+    <string name="float_copied">已复制到剪贴板</string>
+    <string name="float_style_conservative">保守</string>
+    <string name="float_style_aggressive">激进</string>
+    <string name="float_style_surprising">出其不意</string>
+
+    <!-- 前台服务通知 -->
+    <string name="notification_channel_name">Skald 服务</string>
+    <string name="notification_title">Skald 辅助运行中</string>
+    <string name="notification_text">点击悬浮按钮开始分析聊天</string>
+
+    <!-- 隐私说明 -->
+    <string name="privacy_notice">截图仅在内存中处理，不会保存到相册或上传到第三方服务器。对话内容仅发送至您配置的 DeepSeek API 地址。</string>
+
+    <!-- 通用 -->
+    <string name="cancel">取消</string>
+    <string name="confirm">确认</string>
+    <string name="close">关闭</string>
+</resources>
