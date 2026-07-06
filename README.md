@@ -174,9 +174,6 @@ gradlew.bat assembleDebug
 - 🔑 API Key 仅存储在本地 SharedPreferences
 - 📊 **不会**收集任何用户数据或使用统计
 
-## 许可证
-
-MIT License
 
 ---
 
