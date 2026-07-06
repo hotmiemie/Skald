@@ -1,6 +1,6 @@
 # Skald — 智能聊天话术助手
 
-基于 Android 无障碍服务的聊天辅助工具。一键截图 → OCR 识别 → DeepSeek AI 生成多风格回复建议(可替换模型)。
+针对微信聊天的辅助工具，支持根据聊天内容生成推荐回复.基于 Android 无障碍服务: 一键截图 → OCR 识别 → DeepSeek AI 生成多风格回复建议(可替换模型)。
 
 ## 声明
 项目基于10-neon老师的ratatoskr项目设计，项目地址 https://github.com/10-neon/ratatoskr
